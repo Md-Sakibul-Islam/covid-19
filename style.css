@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Domine&display=swap");
+body {
+  font-family: "Domine", serif;
+}
+/* navbar style start  */
+.navbar-nav a {
+  margin: 0 20px;
+}
+.contact-link {
+  line-height: 24px;
+  text-align: center;
+  width: 145px;
+  height: 40px;
+  text-align: center;
+  border: 1px solid red;
+}
+/* navbar style end  */
