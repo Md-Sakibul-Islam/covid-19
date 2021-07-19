@@ -22,6 +22,7 @@ body {
 .covid-paragraph{
     color: #4B4F51;
     font-size: 13px;
+    line-height: 30px;
 }
 .btn-color{
     width: 160px;
@@ -31,3 +32,30 @@ box-shadow: 0px 8px 87px rgba(0, 0, 0, 0.1);
 border-radius: 65px;
 border: 0;
 }
+/* 
+---------------------
+corona style start
+--------------------
+*/
+.corona-heading{
+    color:#035755;
+}
+.corona-paragraph{
+    color: #4B4F51;
+    font-size: 13px;
+    line-height: 30px;
+}
+.learn-more{
+    
+background: rgba(250, 86, 82, 0.15);
+border-radius: 65px;
+width: 170px;
+height: 50px;
+color: red;
+border: 0;
+}
+/* 
+---------------------
+corona style end
+--------------------
+*/
